@@ -111,3 +111,46 @@ body{
 
 
   /* End Footer */
+
+  /* Main Page */
+
+.blog1{
+  margin: 15px;
+  margin-left: 0px;
+  border: 1px solid black;
+  border-radius: 15px 50px;
+}
+
+.blog2{
+  margin: 15px;
+  margin-left: 0px;
+  margin-top: 0px;
+  border: 1px solid black;
+  border-radius: 20px;  
+  height: 500px;
+  width: 100%;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+}
+
+#CP{
+  background: url('../CP-image.jpeg') no-repeat;
+  background-position: center;
+}
+
+.blog2 .heading{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  opacity: .8;
+}
+
+
+  /* End Page */
