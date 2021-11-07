@@ -74,7 +74,15 @@ body{
 /*BODY*/
 
 #table-of-content{
-  
+
+    margin: 15px;
+    margin-left: 0px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.heading{
+  color:brown;
 }
 
 /*BODY*/
